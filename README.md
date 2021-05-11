@@ -23,7 +23,6 @@
 
 #### Proof of concepts
 - WIP Rust project template: https://github.com/joxcat/rust-project-template
-- Jupyter Binder X Rust: https://github.com/joxcat/poc-binder-jupyter-rust
 - Rust cross-platform keyboard hook: https://github.com/joxcat/poc-keyboard-rs
 
 ### Conf & Tools
