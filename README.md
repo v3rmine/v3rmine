@@ -10,7 +10,6 @@
 
 ### Current projects
 - [JOSE](https://github.com/mathis-chapuis/JOSE) Parser: https://github.com/joxcat/JOSE-ROUILLE
-- Rust FDK (for [fnproject](https://github.com/fnproject)): https://github.com/joxcat/fdk-rust
 - Project templating tool (inspired by old project [Boilr](https://github.com/tmrts/boilr)): https://github.com/joxcat/boil.rs
 - Personal website / blog (Forever WIP, need rework with Tiddlywiki): https://github.com/joxcat/blog
 - Messenger bot / API Bindings in Rust: https://github.com/joxcat/messenger-rs
@@ -25,6 +24,7 @@
 #### Proof of concepts
 - WIP Rust project template: https://github.com/joxcat/rust-project-template
 - Rust cross-platform keyboard hook: https://github.com/joxcat/poc-keyboard-rs
+- Visual captcha solver using Tesseract OCR: https://github.com/joxcat/poc-mailinblack-solver
 
 ### Conf & Tools
 - Linux / OSX / VPS dotfiles: https://github.com/joxcat/dotfiles
