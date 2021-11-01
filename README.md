@@ -70,7 +70,7 @@
 
 ## Mirrors
 If you're interested I have some mirrors of french API / softwares
-- StopCovid App: https://github.com/joxcat/stopcovid-mirror
+<!-- - StopCovid App: https://github.com/joxcat/stopcovid-mirror -->
 - Legifrance API: https://github.com/joxcat/legifrance-api-swagger
 
 <!--
