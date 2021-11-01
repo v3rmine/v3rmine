@@ -13,7 +13,7 @@
 - Project templating tool (inspired by old project [Boilr](https://github.com/tmrts/boilr)): https://github.com/joxcat/boil.rs
 - Personal website / blog (Forever WIP, need rework with Tiddlywiki): https://github.com/joxcat/blog
 - Messenger bot / API Bindings in Rust: https://github.com/joxcat/messenger-rs
-- Docker iamge with Jupyter (Elm, Intel ASM, Ruby, TS/JS, Rust, Coq, Java, Clojure, Go and Elixir): https://github.com/joxcat/docker-jupyter-kernels
+- Docker image with Jupyter (Elm, Intel ASM, Ruby, TS/JS, Rust, Coq, Java, Clojure, Go and Elixir): https://github.com/joxcat/docker-jupyter-kernels
 - Cross compile Rust for Windows & OSX using Docker on Linux: https://github.com/joxcat/docker-cargo-cross
 - Docker image to check coverage using kcov: https://github.com/joxcat/docker-cargo-kcov
 
