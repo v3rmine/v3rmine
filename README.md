@@ -2,8 +2,6 @@
   
 # Hi there 👋
 
-![Johan's github stats](https://github-readme-stats.vercel.app/api?username=joxcat&count_private=true&show_icons=true&theme=buefy)
-
 </div>
 
 ## My projects
