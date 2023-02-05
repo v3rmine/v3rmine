@@ -8,7 +8,6 @@
 - UDP & TCP port scanner (server + client) to identify network blocked ports: https://github.com/joxcat/portmole
 - [JOSE "the french JSON"](https://github.com/mathis-chapuis/JOSE) parser: https://github.com/joxcat/JOSE-ROUILLE
 - Cross compile Rust for Windows & OSX using Docker on Linux: https://github.com/joxcat/docker-cargo-cross
-- Docker image to check coverage using kcov: https://github.com/joxcat/docker-cargo-kcov
 
 #### Proof of concepts
 - WASM plugin system in Rust (*wasmer*): https://github.com/joxcat/wasm-plugins
@@ -20,8 +19,6 @@
 - [Cosmopolitan](https://github.com/jart/cosmopolitan) experiments: https://github.com/joxcat/cosmopolitan-experiments
 - Nim X Fuse: https://github.com/joxcat/nimfuse
 - Hyper multiconnector to use with docker socket (without unsafe or nightly rust): https://github.com/joxcat/dynamic-hyper-connector
-- Learning Rust in Jupyter: https://github.com/joxcat/jupyter-rust
-- Learning Intel Assembly in Jupyter: https://github.com/joxcat/jupyter-to-learn-intel-assembly
 
 ### Conf & Tools
 - Linux / OSX / VPS dotfiles: https://github.com/joxcat/dotfiles
@@ -38,10 +35,11 @@
   - Rust server framework benchmarks: https://github.com/joxcat/web-bench-wrk
   - CICD Binding for the Github Check API (used in Drone): https://github.com/joxcat/docker-drone-check-api
   - Docker image with Jupyter (Elm, Intel ASM, Ruby, TS/JS, Rust, Coq, Java, Clojure, Go and Elixir): https://github.com/joxcat/docker-jupyter-kernels
-
+  - Docker image to check coverage using kcov: https://github.com/joxcat/docker-cargo-kcov
+  - Learning Intel Assembly in Jupyter: https://github.com/joxcat/jupyter-to-learn-intel-assembly
+  
   #### Forks
   - yotta build tool for embedded, now supported in Nix!: https://github.com/joxcat/yotta
-  
 
   #### Proof of concepts
   <!-- - Ebay semi-auto-bid tool: (soon^tm -- shht it never existed) -->
