@@ -4,17 +4,16 @@
 
 ### Current projects
 - Personal website / blog (Forever WIP): https://github.com/joxcat/blog
+- Armv6 VM for a Microbit v1.5 simulator: https://github.com/joxcat/microbit-vm
 - System metrics collector and panel (rewrite of an existing go project): https://github.com/joxcat/ferrous-sysmet
 - UDP & TCP port scanner (server + client) to identify network blocked ports: https://github.com/joxcat/portmole
 - [JOSE "the french JSON"](https://github.com/mathis-chapuis/JOSE) parser: https://github.com/joxcat/JOSE-ROUILLE
-- Cross compile Rust for Windows & OSX using Docker on Linux: https://github.com/joxcat/docker-cargo-cross
 - Gitlab env fuse filesystem: *source to be published Soon^TM*
-- Armv6 VM for a Microbit v1.5 simulator: https://github.com/joxcat/microbit-vm
+- Rust project template: https://github.com/joxcat/rust-project-template
 
 #### Proof of concepts
 - WASM plugin system in Rust (*wasmer*): https://github.com/joxcat/wasm-plugins
 - Visual captcha solver using Tesseract OCR: https://github.com/joxcat/poc-mailinblack-solver
-- Rust project template: https://github.com/joxcat/rust-project-template
 <!-- - Rust cross-platform keyboard hook: https://github.com/joxcat/poc-keyboard-rs -->
 
 #### Learning projects
@@ -39,6 +38,7 @@
   - Docker image with Jupyter (Elm, Intel ASM, Ruby, TS/JS, Rust, Coq, Java, Clojure, Go and Elixir): https://github.com/joxcat/docker-jupyter-kernels
   - Docker image to check coverage using kcov: https://github.com/joxcat/docker-cargo-kcov
   - Learning Intel Assembly in Jupyter: https://github.com/joxcat/jupyter-to-learn-intel-assembly
+  - Cross compile Rust for Windows & OSX using Docker on Linux: https://github.com/joxcat/docker-cargo-cross
   
   #### Forks
   - yotta build tool for embedded, now supported in Nix!: https://github.com/joxcat/yotta
