@@ -12,7 +12,6 @@
 - Rust project template: https://github.com/joxcat/rust-project-template
 
 #### Proof of concepts
-- WASM plugin system in Rust (*wasmer*): https://github.com/joxcat/wasm-plugins
 - Visual captcha solver using Tesseract OCR: https://github.com/joxcat/poc-mailinblack-solver
 <!-- - Rust cross-platform keyboard hook: https://github.com/joxcat/poc-keyboard-rs -->
 
@@ -50,6 +49,7 @@
   - Simple static file server: https://github.com/joxcat/poc-rust-static-file-server
   - Server that map HEADER field to body response (used for robots.txt in traefik): https://github.com/joxcat/poc-header-to-body-server
   - Discord COVID status bot using Gouv OpenAPI: https://github.com/joxcat/poc-covid-bot-gouv
+  - WASM plugin system in Rust (*wasmer*, archived because I now use **wasmtime**): https://github.com/joxcat/wasm-plugins
 
   #### For school
   - FAC L3 POO: https://github.com/joxcat/fac.poo-projet-l3
