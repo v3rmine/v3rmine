@@ -78,7 +78,7 @@
   - VSCode in the browser (coder): https://github.com/joxcat/code-server-docker
 </details>
 
-<a style="display:none" rel="me" href="https://eldritch.cafe/@johan">Mastodon</a>
+<a rel="me" href="https://eldritch.cafe/@johan"></a>
 
 ## Mirrors
 If you're interested I have some mirrors of french API / softwares
