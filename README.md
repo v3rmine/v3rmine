@@ -76,8 +76,9 @@
   - RM wraper for OMF: https://github.com/joxcat/omf-rm-brrrr
   - UFW autocomplete for OMF: https://github.com/joxcat/omf-ufw
   - VSCode in the browser (coder): https://github.com/joxcat/code-server-docker
-<a rel="me" href="https://eldritch.cafe/@johan"></a>
 </details>
+
+<a style="display:none" rel="me" href="https://eldritch.cafe/@johan">Mastodon</a>
 
 ## Mirrors
 If you're interested I have some mirrors of french API / softwares
