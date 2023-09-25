@@ -76,7 +76,7 @@
   - RM wraper for OMF: https://github.com/joxcat/omf-rm-brrrr
   - UFW autocomplete for OMF: https://github.com/joxcat/omf-ufw
   - VSCode in the browser (coder): https://github.com/joxcat/code-server-docker
-<a style="display:none" rel="me" href="https://eldritch.cafe/@johan"></a>
+<a rel="me" href="https://eldritch.cafe/@johan"></a>
 </details>
 
 ## Mirrors
