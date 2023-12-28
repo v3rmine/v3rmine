@@ -1,4 +1,4 @@
-# Johan (/ʒoa:n/)
+# Johan ([/ʒo:an/](http://ipa-reader.xyz/?text=%CA%92o%3Aan))
 
 ## My projects
 
