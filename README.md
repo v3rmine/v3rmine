@@ -17,7 +17,7 @@
 
 #### Learning projects
 - [Cosmopolitan](https://github.com/jart/cosmopolitan) experiments: https://github.com/joxcat/cosmopolitan-experiments
-- Nim X Fuse: https://github.com/joxcat/nimfuse
+<!-- - Nim X Fuse: https://github.com/joxcat/nimfuse -->
 - Hyper multiconnector to use with docker socket (without unsafe or nightly rust): https://github.com/joxcat/dynamic-hyper-connector
 
 ### Conf & Tools
