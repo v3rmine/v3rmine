@@ -4,6 +4,7 @@
 
 ### Current projects
 - Personal website / blog (Forever WIP): https://github.com/joxcat/blog
+- GPSR Command understanding (final school project): https://github.com/joxcat/decision-maker
 - Armv6 VM for a Microbit v1.5 simulator: https://github.com/joxcat/microbit-vm
 - System metrics collector and panel (rewrite of an existing go project): https://github.com/joxcat/ferrous-sysmet
 - UDP & TCP port scanner (server + client) to identify network blocked ports: https://github.com/joxcat/portmole
