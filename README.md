@@ -1,4 +1,5 @@
-# Johan ([/ʒo:an/](http://ipa-reader.xyz/?text=%CA%92o%3Aan))
+# Johan
+<!-- ([/ʒo:an/](http://ipa-reader.xyz/?text=%CA%92o%3Aan)) -->
 
 ## My projects
 
@@ -10,7 +11,7 @@
 - UDP & TCP port scanner (server + client) to identify network blocked ports: https://github.com/joxcat/portmole
 - [JOSE "the french JSON"](https://github.com/mathis-chapuis/JOSE) parser: https://github.com/joxcat/JOSE-ROUILLE
 - Gitlab env fuse filesystem: *source to be published Soon^TM*
-- Rust project template: https://github.com/joxcat/rust-project-template
+<!-- - Rust project template: https://github.com/joxcat/rust-project-template -->
 
 #### Proof of concepts
 - Visual captcha solver using Tesseract OCR: https://github.com/joxcat/poc-mailinblack-solver
@@ -18,15 +19,15 @@
 
 #### Learning projects
 - [Cosmopolitan](https://github.com/jart/cosmopolitan) experiments: https://github.com/joxcat/cosmopolitan-experiments
-<!-- - Nim X Fuse: https://github.com/joxcat/nimfuse -->
 - Hyper multiconnector to use with docker socket (without unsafe or nightly rust): https://github.com/joxcat/dynamic-hyper-connector
+<!-- - Nim X Fuse: https://github.com/joxcat/nimfuse -->
 
 ### Conf & Tools
-- Linux / OSX / VPS dotfiles: https://github.com/joxcat/dotfiles
-- Declarative setup tool for shellscript usage (conception stage): https://github.com/joxcat/prr
-- Iosevka font config: https://github.com/joxcat/Iosevka-custom-conf
-- QMK Configs for my keyboard: https://github.com/joxcat/qmk_firmware
 - Personal server's terraform services: https://github.com/joxcat/server-services
+- Linux / OSX / VPS dotfiles: https://github.com/joxcat/dotfiles
+- Iosevka font config: https://github.com/joxcat/Iosevka-custom-conf
+<!-- - QMK Configs for my keyboard: https://github.com/joxcat/qmk_firmware -->
+<!-- - Declarative setup tool for shellscript usage (conception stage): https://github.com/joxcat/prr -->
 
 <details>
   <summary><h2>And a lot of archived projects!</h2></summary>
