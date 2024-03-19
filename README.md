@@ -3,7 +3,7 @@
 
 ## My projects
 
-### Current projects
+### Current
 - Personal website / blog (Forever WIP): https://github.com/joxcat/blog
 - GPSR Command understanding (final school project): https://github.com/joxcat/decision-maker
 - Armv6 VM for a Microbit v1.5 simulator: https://github.com/joxcat/microbit-vm
